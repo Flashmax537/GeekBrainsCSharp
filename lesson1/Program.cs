@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace lesson1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
+            Console.Write("Введите ваше имя: ");
+            var name = Console.ReadLine();
+            Console.WriteLine($"Привет, {name}, сегодня {DateTime.Now.ToShortDateString()}!");
+            Console.ReadKey();
         }
     }
 }
