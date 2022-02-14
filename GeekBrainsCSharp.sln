@@ -33,15 +33,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson4Task3", "lesson4Task
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson4Task4", "lesson4Task4\lesson4Task4.csproj", "{77C58AFB-F1D1-4BD7-98DA-6357648675AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson5Task1", "lesson5Task1\lesson5Task1.csproj", "{11915975-1621-4772-AE5E-D85638C05A35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson5Task1", "lesson5Task1\lesson5Task1.csproj", "{11915975-1621-4772-AE5E-D85638C05A35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson5Task2", "lesson5Task2\lesson5Task2.csproj", "{7FF1E033-A83A-4787-A330-F603341A2C3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson5Task2", "lesson5Task2\lesson5Task2.csproj", "{7FF1E033-A83A-4787-A330-F603341A2C3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson5Task3", "lesson5Task3\lesson5Task3.csproj", "{8A8BEF84-4214-4643-B654-0663F778A02E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson5Task3", "lesson5Task3\lesson5Task3.csproj", "{8A8BEF84-4214-4643-B654-0663F778A02E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson5Task4", "lesson5Task4\lesson5Task4.csproj", "{9B3CEACE-461F-4E7E-A4C9-1730CD469887}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson5Task4", "lesson5Task4\lesson5Task4.csproj", "{9B3CEACE-461F-4E7E-A4C9-1730CD469887}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson5Task5", "lesson5Task5\lesson5Task5.csproj", "{71F38EA7-0CE4-4827-948F-40294C327817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson5Task5", "lesson5Task5\lesson5Task5.csproj", "{71F38EA7-0CE4-4827-948F-40294C327817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson6Task1", "lesson6Task1\lesson6Task1.csproj", "{41AE03B8-242E-48DC-80B9-8F4DEC63143C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{71F38EA7-0CE4-4827-948F-40294C327817}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F38EA7-0CE4-4827-948F-40294C327817}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F38EA7-0CE4-4827-948F-40294C327817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AE03B8-242E-48DC-80B9-8F4DEC63143C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AE03B8-242E-48DC-80B9-8F4DEC63143C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AE03B8-242E-48DC-80B9-8F4DEC63143C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AE03B8-242E-48DC-80B9-8F4DEC63143C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
