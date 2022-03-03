@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson5Task5", "lesson5Task
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lesson6Task1", "lesson6Task1\lesson6Task1.csproj", "{41AE03B8-242E-48DC-80B9-8F4DEC63143C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson8Task1", "lesson8Task1\lesson8Task1.csproj", "{771508A5-EFEC-40EE-987F-B585077961C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckForChange", "lesson7Task1\CheckForChange\CheckForChange.csproj", "{466A3E91-66C9-47B9-BA2B-ED2BE40A97D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson8Task1", "lesson8Task1\lesson8Task1.csproj", "{88ED4076-6DED-470E-B30B-370BA608CCD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,14 @@ Global
 		{771508A5-EFEC-40EE-987F-B585077961C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{771508A5-EFEC-40EE-987F-B585077961C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{771508A5-EFEC-40EE-987F-B585077961C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466A3E91-66C9-47B9-BA2B-ED2BE40A97D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466A3E91-66C9-47B9-BA2B-ED2BE40A97D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466A3E91-66C9-47B9-BA2B-ED2BE40A97D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466A3E91-66C9-47B9-BA2B-ED2BE40A97D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88ED4076-6DED-470E-B30B-370BA608CCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88ED4076-6DED-470E-B30B-370BA608CCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88ED4076-6DED-470E-B30B-370BA608CCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88ED4076-6DED-470E-B30B-370BA608CCD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
